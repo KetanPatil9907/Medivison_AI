@@ -1,0 +1,3 @@
+# MediVision AI frontend robots
+User-agent: *
+Allow: /
