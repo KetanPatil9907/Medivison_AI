@@ -1,4 +1,4 @@
-# 🏥 MediVision AI
+# 🏥 MediVision AI 
 
 ### AI-Powered Intelligent Healthcare & Diagnostic Platform
 
